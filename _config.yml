@@ -35,6 +35,9 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum" "sunrise"
+
+
 # google_fonts:
 # - name: "Source Sans Pro"
 #   weights: "400,400i,700,700i"
