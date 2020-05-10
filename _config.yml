@@ -28,7 +28,8 @@ twitter_username: johnhawks
 github_username: johnhawks
 
 # Build settings
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+# remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 # theme: minima
 plugins:
   - jekyll-feed
