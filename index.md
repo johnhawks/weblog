@@ -6,3 +6,18 @@ categories: jekyll update
 ---
 
 This is a test. This is only a test.
+
+Now testing a notice block...
+{: .notice--danger}
+
+Now testing a notice block...
+{: .notice--success}
+
+Now testing a notice block...
+{: .notice--warning}
+
+Now testing a notice block...
+{: .notice--info}
+
+Now testing a notice block...
+{: .notice--primary}
