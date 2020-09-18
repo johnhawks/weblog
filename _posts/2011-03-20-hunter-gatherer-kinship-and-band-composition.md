@@ -1,0 +1,32 @@
+---
+layout: single 
+title: "Hunter-gatherer kinship and band composition" 
+category: story
+permalink: /weblog/topics/population_structure/kin-co-residence-hill-2011.html
+tags: [hunter-gatherers, population structure, social, social dynamics, group selection] 
+comments: false 
+author: John Hawks 
+---
+
+Kim Hill and colleagues described in last week's <i>Science</i> a study of kinship within bands of hunter-gatherers known from ethnographic research <bib>Hill:Co-residence:2011</bib>. They couched their study to dispute the idea that most of the members of hunter-gatherer bands are kin. 
+
+Why? Because the idea that hunter-gatherers live in bands composed mainly of close kin has been a very common answer to the question, "Why do humans cooperate?"
+
+<blockquote>Traditionally, anthropologists have suggested that hunter-gatherer co-residence is almost entirely based on kinship [e.g., (15, 16)], and evolutionary psychologists have embraced this idea in order to develop mismatch hypotheses about cooperation among non-kin in modern societies (17). Evolutionary researchers have also argued both that female philopatry and maternal grandmother provisioning is ancestral (5) and that male philopatry, typical of other African hominoids (18, 19) and leading to adult male provisioning (8), is the ancestral human pattern. If either of these is correct, and if foraging bands are mainly collections of close kin, inclusive fitness gains might be the primary motivator of ancestral human cooperation.</blockquote>
+
+True, many evolutionary psychologists have adopted this view with gusto: Hunter-gatherers cooperate because they live in small bands with their kin. But as many have realized, actual bands of hunter-gatherers pretty quickly show that this isn't true. Either men or women generally move when they marry, so bands have close relatives in them, but they also have unrelated individuals. In practice people often move with a sibling, or their adult parents may come to live with them as well (both practices described by Hill and colleagues). 
+
+The net effect of residence changes is to reduce the levels of inbreeding within bands, and also reduce the genetic variation among bands. Some evolutionary psychologists occupy themselves with group selection precisely because the relevant level of cooperation in hunter-gatherers is the band, and bands include many people who are distantly if at all related. But (as Hill and colleagues also note) the high rates of intermarriage among bands greatly reduces the strength of group selection possible among them. 
+
+
+I think the paper sets up a straw man when it claims that the "traditional view" in anthropology is that bands are made up of kin. That's certainly not the view I learned. Their "traditional" citations are Elmer Service and June Helm, writing in the 1960's, and I don't doubt that they and others have argued for kin-structured co-residence. My understanding of "kin-structured" was never that bands were made up of close kin, but instead that residence was determined by kinship pattern. Exogamy is driven by the incest taboo, for example. Whether men or women typically change residence to marry depends on other kinship rules. Humans recognize kin, and their movements are not incidental to this, resulting in a kin-structured society. Some rules force people to live in different groups from their close kin, not the same groups. 
+
+At any rate, Hill and colleagues confirm that the groups in their dataset do not have bands composed mainly of close kin. They suggest that we need a new theory of human social evolution to explain the emergence of cooperative behaviors: 
+
+<blockquote>The hunter-gatherer social structure we describe has important implications for theories about the evolution of cooperation and cultural capacity. First, bands are mainly composed of individuals either distantly related by kinship and/or marriage or unrelated altogether. In our sample of 32 societies, primary kin generally make up less than 10% of a residential band. For example, in the Ache we estimate the mean genetic coefficient of relatedness (Hamiltons <i>r</i>) between adults in 58 precontact bands to be only 0.054 (n = 19,634 dyads, SE = 0.0001). This agrees with Ache informants who reported that during the precontact period they often lived with people described as friends, not relatives. The Ju/hoansi results in Fig. 2 suggest that mean relatedness in other groups is not too different from the Ache. Thus, we cannot necessarily assume that cognitive features such as inequality aversion and enhanced prosocial emotions evolved in ancestral environments composed mainly of close kin. Given the constant flow of individuals between groups, genetic group selection at the level of the band also seems improbable. Instead, cultural group selection (27) may lead to the spread of cooperative institutions within ethnic groups, which might then create a context favoring the genetic evolution of prosocial cognitive mechanisms through individual-level selection.</blockquote>
+
+I have two reactions. The paper is missing a null model. It is true that the hunter-gatherers are much less related to each other within a band than would be predicted if they were choosing to live near close kin. But are they <i>more related to each other</i> than would be the case if they moved randomly? What if individuals move around without consideration of kinship at all, according to a simple distance function? If individuals behave as they would without any knowledge of kinship, it's clear that our explanation for cooperation needs to work at the individual level. Cultural group selection may help explain the persistence of institutions and rules, but I think it's insufficient to explain the evolution of people who can form institutions and rules. 
+
+My second reaction is that humans are self-interested. In my experience, children learn to share when they can grasp the concept of reciprocity. Let me suggest that, <a href="http://johnhawks.net/weblog/reviews/brain/language/number-as-cognitive-technology-2011.html">like numbers</a>, cooperation may be a cognitive technology in humans. We may have many biological changes that facilitate cooperation -- for example, I would look for human-specific changes to oxytocin regulation. But those changes may be mostly tuning a system to facilitate prosocial behavior (and reduce aggression). They don't explain the occurrence of specific prosocial behaviors, because those behaviors themselves did not evolve. They were invented. 
+
+

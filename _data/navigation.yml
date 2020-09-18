@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Hominins"
-    url: /hominins/
-  - title: "About"
-    url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Weblog"
+    url: /weblog/
+  - title: "Books and courses"
+    url: /books/
+  - title: "Events"
+    url: /events/
+  - title: "About John Hawks"
+    url: /weblog/hawks.html
+  - title: "Tags"
+    url: /weblog/tags/
+  - title: "About this site"
+    url: /weblog/hawks/about.html

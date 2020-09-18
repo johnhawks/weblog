@@ -1,0 +1,42 @@
+---
+layout: single
+title: "Six good things to remember about ScienceOnline"
+category: story
+permalink: /weblog/topics/meetings/science-online-seven-things-2014.html
+description: "The demise of the blogging and science organization."
+tags: [ScienceOnline, meetings, metascience]
+modified: 2014-10-12
+author: John Hawks
+---
+
+<a href="http://scienceonline.com/2014/10/09/scienceonline-to-cease-operations-cancels-2015-conference/">ScienceOnline has now ended forever</a>. Many people in the next several weeks will doubtless offer their perspective on why the organization failed. They will point to a series of poor decisions, a tone-deaf response to a sexual harassment scandal, and an organization's alienation of thoughtful community members. 
+
+I'd like to consider for a moment why it succeeded so brilliantly for more than five years. ScienceOnline represented a new wave of fusion between scientists and culture. That spirit has been taken outward into many directions by many of the participants, including me. The conferences provided a nexus for people from all walks of science to experience a changing landscape of sharing and doing science. 
+
+<figure>
+<img src="/images/scio11-twitterwall-5358019841_9b29fdab26_b.jpg" alt="ScienceOnline2011 twitterwall" />
+<figcaption>The Twitterwall at ScienceOnline2011. <figcaption>Photo Credit: <a href="https://www.flickr.com/photos/10923557@N06/5358019841/">Lou FCD</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc/2.0/">cc</a></figcaption>
+</figure>
+
+Here's a list of six things that I think helped to make ScienceOnline work. 
+
+<strong>Youth</strong>. The fascination of science is not obvious to everyone, and science has always relied on talented interlocutors to translate important results into popular culture. From the 1990s to the mid-2000s, many of the most widely influential science communicators -- journalists and high-ranking scientists -- were old, crusty, and hidebound. Online culture was new, young and full of revolutionary and romantic ideas. In science, where the most senior ranks are very white and very male, youth also brings diversity. The participants in ScienceOnline were well placed to write and speak about science in new ways, which was exciting to people. 
+
+<strong>Community</strong>. ScienceOnline created a forum in which online friends could meet. More important, the conference enabled people to meet <em>who didn't know each other's online work</em>. Many participants didn't even have online work, in the sense of a blog or other regular writing presence. The conference was built around their mutual interests in new forms of doing, publishing and communicating science. They already formed an informal network of people across institutions, disciplines, and professional callings -- from students to writers to full-time scientists. ScienceOnline helped to solidify this network and enable its members to call upon each other's skills outside of the usual professional silos. 
+
+<strong>Maker culture</strong>. People who engage with science and the internet are creators. They make things, grapple with new technology, hack the source. ScienceOnline gave these people a place to share what they were making. Artwork, ebooks, video, websites, software -- even new startups like Mendeley -- were all shared at ScienceOnline. The conference was full of "how-to" sessions, focusing on the practical side of making things. Some were beginner sessions that helped people learn how to blog, how to manage intellectual property, how to be a better writer. One year, I even organized a nuts-and-bolts workshop on how to migrate to a new server. Where else could one go from a session on documentary film techniques to a session on e-book platforms, and have both of them hit the right level? It is just fun to be around so many different people who are making different kinds of things. 
+
+<strong>Populism</strong>. Science is hierarchical. Senior scientists get the most resources and are allocated the most attention at conferences. At ScienceOnline, students, upcoming writers and journalists, and more established scientists and other academics all collaborated to present the program, all attended the same events and sessions, and most importantly all interacted on an equal footing. The conference encouraged sessions in which the attendees were active participants, not a passive audience. Much has been written about the deficiencies of the "unconference" format, in particular how relying on the crowd of attendees can miss valuable expert knowledge. But <strong>giving a broader sample of attendees a voice enabled them to help create knowledge</strong> instead of passively receiving it. 
+
+
+<strong>The Waiting List</strong>. Let's face it, nothing is cooler than the nightclub with a line out the door. At its peak, the tickets for the ScienceOnline conferences were snapped up within minutes of registration opening. In those years, more than a hundred potential attendees might get on a list to wait for cancellations. The organization did something very smart with this popularity: It gave away spaces to people who were willing to propose and organize great sessions. That idea fueled a diverse program with highly motivated presenters and facilitators. These people helped to minimize the inherent disadvantages of the "unconference" format, preparing and focusing material that would be engaging to the participants. As the organization started to falter, it neglected the value of session organizers increasingly discarded this strength, devaluing the contributions of session organizers. 
+
+<strong>The Backchannel</strong>. ScienceOnline was not the first conference with an active Twitter backchannel, nor was it the first to have livestreaming of sessions. But it was the conference that made offchannel more important than onchannel. What other conference had bandwidth demands on the scale of the Superbowl? The video streams enabled people offsite to participate virtually in the meeting through Twitter, reacting to sessions with their blogs, and thinking about how to organize similar sessions at other meetings. 
+
+
+
+Many of the great things about ScienceOnline have spread across the culture of scientific meetings. Those of us who tweet from scientific meetings have developed a backchannel bond, almost a shadow conference going on behind the scenes. Other meetings may not be egalitarian unconferences, but at least the senior scientists <strong>don't seem to grandstand during the question period</strong> quite so much as they used to. Some of today's best-known and most talented science journalists are people who met and learned from each other at ScienceOnline. Those relationships continue to shape the landscape of science communication. 
+
+Many of these changes may have been more or less inevitable, as a wave of technology enabled new forms of interaction among younger scientists and journalists. <strong>ScienceOnline rode this technology wave</strong>, capitalizing on the interests of people adopting new modes of writing and interacting. But it rode the wave in style, actively encouraging or driving some changes, with so many of its attendees involved across disciplines in other areas of science and culture.
+
+The next ScienceOnline, whatever it may be called, will have to catch a different wave. The original never really evolved beyond the time when blogs were new. Blogs were quick and nimble mainly because they were small, with few layers of editorial decision-making. This gave them an unmatched power to respond to events, but has limited their reach. <strong>The leaders of online science have gone beyond the blog,</strong> exploring many other avenues of creativity.  Already, online technologies are making an impact on documentary filmmaking, education, granting agencies, scientific publishing and field research. Interactive video, MOOCs, massive Facebook communities, and live-online hybrid events have pushed the boundaries of science communication in new ways. We are still making stuff -- even knocking on the door of that most hidebound mode of communication, the television news. With these successes, the makers have become leaders in their fields, spreading new approaches and techniques into more specialized communities. Tomorrow's online science conversations must look forward to this diverse future. 

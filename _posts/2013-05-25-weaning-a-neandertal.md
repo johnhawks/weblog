@@ -1,0 +1,43 @@
+---
+layout: single 
+title: "Weaning a Neandertal" 
+description: "A study of barium/calcium ratios in teeth shows a record of breastfeeding in a Neandertal from Scladina, Belgium" 
+category: story
+permalink: /weblog/reviews/neandertals/diet/scladina-breastfeeding-austin-2013.html
+tags: [stable isotopes, Scladina, life history, Neandertals, diet] 
+comments: false 
+author: John Hawks 
+---
+
+Last week, <em>Nature</em> published a paper by Christine Austin and colleagues, in which they developed a new approach to understand how breastfeeding affects the elemental content of tooth enamel <bib>Austin:barium:2013</bib>. Barium and strontium are chemically similar to calcium (all three are in the same column of the periodic table of elements), and a small fraction of both elements are incorporated into enamel and dentine in place of calcium. The fractions of barium and strontium incorporated in teeth depend on an individual's diet; different food sources have different concentrations of these elements. So the concentrations of these elements in tooth enamel give some indication of the diet sources that an individual relied upon when her teeth were developing. 
+
+Two of the most significant diet changes occur early in life -- the change at birth when an infant begins relying upon mother's milk, and the change at weaning from milk to other kinds of foods. Austin and colleagues set out to examine whether they could reliably determine the timing of these two transitions, based upon knowledge of the enamel deposition process: 
+
+<blockquote>We propose that micro-spatial analysis of barium/calcium ratios (Ba/Ca) in dental tissues represents a powerful approach to assess dietary transitions. Whereas prenatal Ba transfer is restricted by the placenta, marked enrichment occurs immediately after birth from mothers milk or infant formulas, which contain higher Ba levels than umbilical cord sera. In response to these variations in dietary Ba exposure, Ba/Ca in enamel and dentine should increase at birth, remain elevated for the duration of exclusive breastfeeding and rise further with introduction of infant formula. Circulating Ba levels are expected to change at weaning as Ba (and Ca) content and bioavailability is markedly different across plant and animal food sources. To test this hypothesis, we investigated Ba/Ca patterns in teeth from human children for whom early life diets were recorded prospectively, and in teeth from captive macaques in which maternal milk was collected and suckling behaviour observed.</blockquote>
+
+They applied their method to deciduous teeth that came from children whose mothers had participated in the Center for the Health Assessment of Mothers and Children of Salinas (CHAMACOS) study in Monterey County, California. This allowed Austin and colleagues to examine the fraction of barium in enamel and dentin, layer by layer, within children whose diets had been recorded including the dates of exclusive breastfeeding, supplemented breastfeeding, transition to infant formula and full weaning. The sample of teeth is not very large (only 25 individuals) but the barium signals within the teeth tracked very well with the dates reported for birth, breastfeeding and transition off milk. Additionally, Austin and colleagues considered the teeth of four macaques whose record of suckling and weaning had been recorded. The macaques did not have the confounding influence of formula supplementation, and their barium/calcium signatures gave quite clear records of natural, gradual weaning versus abrupt weaning upon the separation of mother and juvenile.  
+
+Although both barium and strontium may provide a signal of these diet changes, Austin and colleagues focused on barium because strontium is more likely to be shifted within ancient tooth enamel after it has been buried in the ground. The goal of the paper was not only to show that the signature of breast feeding is consistent within living populations (in this case, macaques and humans) but also to provide a way to infer these dietary transitions in ancient primates. To that end, they examined the pattern within a Neandertal tooth from Scladina, Belgium: 
+
+<blockquote>Chemical and temporal mapping of Neanderthal first molar enamel (Fig. 3) revealed a transition pattern similar to the macaque that weaned abruptly. After approximately 13?days of prenatal enamel formation, Ba/Ca near the enameldentine junction increased and remained elevated until approximately 227?days of age (~7.5?months), followed by intermediate values until 435?days of age (1.2?years). After this age Ba/Ca rapidly returned to prenatal levels for the final 1.15?years of crown formation. </blockquote>
+
+They infer that the Neandertal child was moved off exclusive breastfeeding to partial supplemented breastfeeding at around 7.5 months of age, which the authors suggest is consistent with the pattern in other primates. Then, they suggest that the extended period of breastfeeding in conjunction with solid food supplementation was "abruptly" cut off at the unusually low 1.2 years. After that time, the child continued to grow, apparently without mother's milk. 
+
+Katie Hinde, one of the authors of the research paper, has written a blog post giving a lucid explanation of the research and its background: <a href="http://mammalssuck.blogspot.com/2013/05/teeth-and-weaning-and-neanderthal-oh-my.html">"Teeth and Weaning and Neanderthal OH MY!"</a> She discusses whether the Scladina tooth is sufficient to make inferences about Neandertal life history more generally: 
+
+<blockquote>So do we think we know the species typical pattern of Neanderthal weaning? Not at all. The precipitous decrease of barium at 1.2 years of age pretty clearly suggests that the Scladina Neanderthal was abruptly weaned in a non-typical fashion. </blockquote>
+
+<blockquote>...</blockquote>
+
+<blockquote>We have a really powerful way to investigate the period of exclusive milk feeding and the weaning process with high precision and resolution. For the first time we have a method to look at individual differences in these parameters in primates collected by old school naturalists gathering dust in natural history museums or skeletal material recovered at primate field sites. And we can do this in well-preserved fossil hominins... if colleagues are willing to share. </blockquote>
+
+I think this research is really great, and I was talking about it the other day as an example of how we are uncovering evidence about ancient people that was previously invisible to us. Obviously, I'd like to see the same kind of analysis extended to much larger samples of teeth. This paper is a very promising start to the research, but we need to understand what variation there may be within living humans who are eating a broader range of diets, and who may have somewhat different patterns of tooth development. 
+
+What I think is most encouraging about this line of research is that breastfeeding may give a natural chemical tracer that will allow researchers to confirm the periodicity of enamel formation in people of known breastfeeding history. A problem in earlier research on tooth development has been the lurking possibility that the deposition process varies among people in ways that make inferences about life history and diet transitions in prehistoric humans somewhat doubtful. A more extensive record of comparative work on breastfeeding and tooth development, with large human and primate samples, has the potential to test whether between-population and within-population variation in developmental processes is important here.
+
+As the research develops, I keep reflecting on the plasticity of childhood development. Here we see breastfeeding as an influence upon the stable isotopes represented in teeth, but the teeth grow with or without that food source. One of the macaques showed a pulse of increased barium after being weaned entirely, which the authors suggest may have been caused by the release of barium and calcium from the skeleton and incorporation in the teeth. Our bodies use stored minerals within the skeleton as a reservoir for later biochemical needs, and acquisition of nutrients from the mother's bodily stores is an important part of that process. Human development relies upon buffers against environmental variability, and in certain physiological processes -- such as enamel formation -- we see a complex trace of those buffers interacting with extreme shifts in environmental resource availability. 
+
+This is a really complicated way of saying that our bodies have to cope with losing people, because our ancestors lost their parents much more often than we do today. The Scladina child was part of this heritage of survival. 
+
+
+

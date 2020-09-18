@@ -1,0 +1,30 @@
+---
+layout: single 
+title: "Genetics of smell and population history" 
+description: "A study of the genetics of smell shows wide variation within populations, not between them." 
+category: story
+permalink: /weblog/reviews/genetics/olfactory-variation-mcrae-2013.html
+tags: [diet, GWAS, agriculture, smell, recent evolution, olfaction] 
+comments: false 
+author: John Hawks 
+---
+
+I want to point to a recent paper by Jeremy McRae and colleagues <bib>McRae:2013</bib>, which identifies previously-unknown genetic associations with smell sensitivity to four different chemicals. The chemicals are related to some very recognizable smells, including malt, blue cheese, apple, and floral scents. 
+
+The paper isn't the first to find genetic loci related to smell -- remember the famous "asparagus urine" association <bib>Lison:1980</bib>. And several different polymorphisms have long been known associated with taste. But the ability to systematically look for genetic associations that may explain some of the variation in smell reporting among people provides the interesting potential of explaining why people like different kinds of foods. 
+
+<blockquote>There are 16 possible odor sensitivity combinations from the sensitivity categories for the four associated odors. Most of these combinations (11/16) are present in our cohort at frequencies not significantly different from expectations for independence (p = 0.929, n = 175). Across human populations, these combinations also segregate at frequencies not significantly different from expectations (Table S6), implying that these traits segregate independently within human populations. These data, linking sensory acuity for multiple odors to OR genotypes within a single cohort, demonstrate that the variation within OR genes produces combinations of odor sensitivity as predicted previously [33]. With clusters of ORs on all chromosomes except chromosomes 20 and Y, the number of independent possible combinations is large, with each combination conferring a distinct set of odor sensitivities. If all these combinations of odor sensitivities translate into distinct flavor experiences [32, 33 and 34], everyone has a highly personalized experience for any given food based on the genotype of their OR subgenome.</blockquote>
+
+Being GWAS, some of these associations may not continue to replicate in other samples. Indeed, this study looked again at two chemicals with previously reported associations, and did not find those associations in these samples of individuals. What I thought was most interesting about this particular paper was that the associations were repeated in European and Asian origin samples, and that some of them were substantially variable in both those populations. The statistical corollary of high variation within both populations is that the two populations are not very different from each other: 
+
+<blockquote>By classifying individuals into sensitivity categories (sensitive or insensitive) based on their genotype, it can be inferred how variation in odor acuity is distributed within human populations using publically available genotype data [27]. The biggest difference in sensitivity frequency between two populations was for rs7943953 (?-ionone), which differed from 0.164 to 0.643 in the ASW and IBS populations, respectively. Both sensitivity categories were common (minor frequency > 0.05) for each of the associated variants in at least one population (minor frequency = 0.119  0.438), varying both within and among human populations (Figure 4). Consistent with this, no population structuring was observed for the four associated loci, with individuals just as likely to differ in sensitivity within a population as between (FIS = ?0.0464  0.136, FST = ?0.0132  0.214, Table S6). This implies that populations do not systematically differ with respect to odor acuity and therefore that the genetics underpinning odor sensitivity is unlikely to be a major factor in explaining ethnic differences in food consumption [25].</blockquote>
+
+Well, at least, <em>these particular genes</em> cannot explain different preferences in different populations. A population-specific GWAS is always going to be underpowered to find genetic associations for which different populations have very different frequencies. To test that kind of hypothesis, you'd need to turn to different methods such as admixture mapping, or targeted analysis of candidate genes with strong allele frequency differences between populations. 
+
+Still, eventually we will work out more and more ways that people differ in their sensory acuities, and it will make a great contribution to the anthropological understanding of preferences. The system is complex, and finding more results like these will help to make clear that it is not a simple matter of "supertasters" or various kinds of olfactory knockouts. People live in different sensory worlds, to some extent, and our brains adapt themselves to the unique sensory world in which they develop. 
+
+Consider, in this case, the sixteen different genotypes involving just these four genetic loci, which explain a small proportion of the olfactory variation among people in a population. Brains develop in these sixteen slightly different sensory environments. In some cases they compensate for a relative lack of sensory input, just as colorblind people compensate for a lack of visual input about colors. In other cases, they simply lack information that may be present in the environment to others. Probably in none of these cases does the variation of olfactory sensitivity have any consequences for survival or reproduction. Probably these are not vestiges of smell sensitivity that was once important to Pleistocene hunter-gatherers -- indeed, the retention of variation across different populations argues that these polymorphisms are much more ancient than the invention of agriculture. We just carry a lot of variation in this system of genes, and that variation may ultimately explain some differences in behavior. 
+
+
+
+

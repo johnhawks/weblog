@@ -18,46 +18,75 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: BioAnth
-subtitle: An open text
+title: "john hawks weblog"
+subtitle: "Paleoanthropology, genetics, and evolution"
+name: "John Hawks"
 email: jhawks@wisc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Educational material for biological anthropology.
+  "Commentary and resources on the science of human evolution."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bioanth.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://johnhawks.net" # the base hostname & protocol for your site, e.g. http://example.com
+repository: johnhawks/weblog
+logo: /images/logo-sts5.png
 twitter_username: johnhawks
 github_username: johnhawks
+
+author:
+  name: "John Hawks"
+  avatar: /images/John-Hawks-overlooking-Omo-Kibish-formation-small.jpg
+  bio: "I'm a paleoanthropologist, studying fossil hominins and genetics."
+  location: "Madison, Wisconsin"
+  links:
+    - label: "About me"
+      icon: "fas fa-fw fa-user-circle"
+      url: "/weblog/hawks.html"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/johnhawks"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/neandertime"
+    - label: "YouTube channel"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/c/JohnHawksEvolution"
 
 # Build settings
 # remote_theme: "mmistakes/so-simple-theme@3.2.0"
 remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 # theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-paginate
+#  - jekyll-sitemap
   - jekyll-include-cache
-  
-  
-collections:
-  hominins:
-    output: true
-    permalink: /:collection/:name
-  
+#  - jekyll-feed
+incremental: true
+
+include: ["_pages","_tags"]
+
+
+
 
 defaults:
 # _posts
 - scope:
     path: ""
-    type: posts, hominins
+#    type: posts, hominins
   values:
     layout: single
     author_profile: true
     read_time: true
     comments: false
-    share: true
+    share: false
     related: true
+    toc: false
+    toc_label: "On this page"
+    toc_icon: "book-reader"
+
 
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum" "sunrise"
+
+paginate: 20
+paginate_path: /weblog/page:num/
 
 
 # google_fonts:
@@ -87,4 +116,29 @@ minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "default", "d
 #   - vendor/ruby/
 
 
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+tag_archive:
+  type: liquid
+  path: /weblog/tags/
+ # https://github.com/jekyll/jekyll-archives
+ # jekyll-archives:
+ #   enabled:
+ #     - categories
+ #     - tags
+ #   layouts:
+ #     category: archive-taxonomy
+ #     tag: archive-taxonomy
+ #   permalinks:
+ #     category: /categories/:name/
+ #     tag: /tags/:name/
 

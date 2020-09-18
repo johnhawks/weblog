@@ -1,0 +1,24 @@
+---
+layout: single 
+title: "Left-handed termite-fishing" 
+category: quickbit
+permalink: /node/29248
+tags: [chimpanzees, handedness, language evolution, language] 
+comments: false 
+author: John Hawks 
+---
+
+Stephanie Bogart and colleagues, working at the chimpanzee field site of Fongoli, Senegal, have a new paper on handedness in these wild primates <bib>Bogart:2013</bib>. Paleoanthropologists have long been interested in handedness as it may provide evidence about lateralization of function in the brain. It is interesting that humans are highly brain lateralized for language and for tool use, suggesting that these functions may be connected in their evolutionary history.
+
+Chimpanzees have a homolog of Broca's area, which does not show substantial lateralization in structure <bib>Schenker:2010</bib>. But chimpanzees do show a hand preference in many of their behaviors, including when they are communicating with gestures <bib>Hopkins:Cantero:2003</bib>. Some studies have tied that kind of lateralization of gesture behavior to evidence for lateralization in brain function <bib>Tagliatella:2006</bib>. A criticism is that these kinds of studies are done with captive chimpanzees, and may not reflect the evolution of hand preference or communication in natural contexts. 
+
+Which brings me to the reason for pointing to Bogart and colleagues' work, which includes my favorite element, the one-paragraph mini-review of the literature: 
+
+<blockquote>In support of this argument, some authors suggest that data from captive and wild primates, especially chimpanzees (Pan troglodytes), produce conflicting results with regards to data on handedness (McGrew and Marchant,1997). Studies in captive chimpanzees reveal population-level right handedness for a number of actions or tasks including throwing, coordinated bimanual activities, manual gestures and grooming (Hopkins,2006; Hopkins et al.,2007, 2010, 2011, 2012). In contrast, reports in wild chimpanzees fail to show population-level bias in spontaneous activities such as scratching, simple reaching, or plucking (Mahale, Tanzania: Corp and Byrne,2004; Gombe, Tanzania: Marchant and McGrew,1996; McGrew and Marchant,2001) or on measures of tool use such as nut-cracking (Bossou, Guinea: Biro et al.,2003; Humle and Matsuzawa,2009), termite fishing (Gombe, Tanzania: McGrew and Marchant,1992; McGrew and Marchant,1996), ant dipping (Mahale, Tanzania: Marchant and McGrew,2007) and leaf sponging (Bossou, Guinea: Biro et al.,2003; Tai, Ivory Coast: Boesch,1991), though some question these claims (Hopkins and Cantalupo,2005; Hopkins,2006). One limitation in attempting to compare findings between wild and captive chimpanzees is the fact that the measures often differ between settings. Most studies of handedness in the wild focus on tool use while hand preference research with captive chimpanzees rarely simulates tasks that model different forms of tool use demonstrated in African populations (Hopkins and Cantalupo,2005). A second limitation of studies in wild chimpanzees is that the sample sizes are often small, and therefore detecting population-level preferences is difficult due to a lack of statistical power (Hopkins,1999; Hopkins and Cantalupo,2005). Indeed, when data on some tool use measures, such as leaf dipping, ant dipping, and termite fishing are combined across study sites or from different studies, population-level handedness is found in wild chimpanzees (Hopkins and Cantalupo,2005).</blockquote>
+
+They find that at Fongoli chimpanzees prefer to termite-fish using their left hands. This is consistent with earlier observations at Gombe, Tanzania, and the authors suggest that it may reflect a greater sensitivity to tactile feedback in the right hemisphere of the chimpanzee brain, as has been shown in some human work. Either that, or it is really a two-handed task in which the right is taking on more of a grasping role:
+
+<blockquote> Second, we have observed that some of the chimpanzees will, after extracting the termite stick, rest it on their opposite hand or wrist and then eat the termites by bringing their wrist to their mouth. In this explanation, the chimpanzees may use their left hand for the probing action to leave the right hand free to aid in consuming the biting insects. In this sense, the hands are working in a complementary, bimanual fashion. In addition to this, the nonprobing hand is often used to pick up termites that are on the outside of the mound, thus the left hand preference for probing could be a result of a right hand preference for grasping. The cognitive and motor factors discussed here may influence termite fishing laterality in conjunction with each other.</blockquote>
+
+That puts a different spin on the evolution of handedness in humans, considering that stone tool manufacture is certainly a two-handed task, as are most actual uses of stone tools for cutting and chopping. 
+

@@ -1,0 +1,17 @@
+# /_data/authors.yml
+
+John Hawks:
+  name: "John Hawks"
+  avatar: /images/John-Hawks-overlooking-Omo-Kibish-formation-small.jpg
+  bio: "I'm a paleoanthropologist, studying fossil hominins and genetics."
+  location: "Madison, Wisconsin"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/johnhawks"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/neandertime"
+    - label: "YouTube channel"
+      icon: "fas fa-fw fa-youtube"
+      url: https://www.youtube.com/c/JohnHawksEvolution

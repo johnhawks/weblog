@@ -1,0 +1,31 @@
+---
+layout: single 
+title: "Primate extractive foraging and tool use" 
+description: "Many kinds of primates make and use tools, or find other ways to defeat the natural defenses of their foods." 
+category: explainer
+permalink: /explainer/primates/tool-use-extractive-foraging
+tags: [extractive foraging, capuchins, primates, termite fishing, tool use, behavior, chimpanzees, learning, social learning, tool, culture, social learning] 
+comments: false 
+author: John Hawks 
+---
+
+An important difference among some primate species is their ability to get foods that are hidden or protected by natural defenses. A little cleverness may yield foods that are inaccessible to other animals. 
+
+For example, gorillas eat a high proportion of leaves and stems of terrestrial plants, especially in mountainous habitat where fruits are scarce. These herbaceous plant parts often have defenses such as stinging hairs or thorns. Such defenses are meant to deter animals like gorillas from eating the plants, and they are effective &mdash; it hurts to eat plants that sting! But gorillas can make use of these plants by following special methods to neutralize the defenses. One kind of sting-covered nettle leaves is commonly eaten by mountain gorillas, which carefully roll stacks of leaves in a way that encapsulates the stings inside a single leaf where they do not hurt so much to chew <bib>Byrne:1993</bib>. 
+
+Some primates make and use tools for extractive foraging, including chimpanzees, bonobos, orangutans and capuchin monkeys. A <strong>tool</strong> can be any kind of natural object that is altered by an individual and used for a purpose. Capuchins use and alter sticks to probe holes for insects <bib>Phillips:1998</bib>. Some groups of capuchins have developed a way of cracking nuts by using large stones <bib>Anderson:capuchin:1990</bib>. Capuchins are small monkeys, so it is quite impressive to see one lift a stone bigger than his head, then toss it down forcefully to break open a nut. Other capuchins gather around to watch and pick up the shattered fragments of nutmeats. Younger capuchins seem to choose to watch the most skilled nutcrackers, which gives them a basis for learning through this social event <bib>Ottoni:capuchin:2005</bib>. 
+
+
+Chimpanzees use both simple and complex tools. The most celebrated chimpanzee tool is the termite stick. This is simply a stick or leaf stem that has been stripped by the chimpanzee, forming a long probe. This is inserted into termite or ant nests where the insects crawl onto the stick. Then, the chimpanzee pulls the stick out and licks off the termites <bib>Goodall:1986b</bib>. 
+
+A more elaborate version of this behavior, probing into holes for a hidden resource, can be used to obtain honey. Honey is an important resource for chimpanzees in many parts of their range, and is produced both by bees that live in trees or hollow logs, and by bees who live in burrows underground. Finding the entrance to an underground hive is a simple matter of watching where the bees go. But the brood and honey chambers of these burrows may be a meter or more underground, and removed some distance from the entrance. Chimpanzees must dig quite a long tunnel in some cases to get the honey, and for this they use several different wooden tools to probe, soften and break up the ground, and dig <bib>Sanz:Morgan:2009</bib>. 
+
+
+Chimpanzees also crack nuts across some parts of their habitat, and this is one of their most complex tool-using behaviors <bib>Boesch:nutcracking:1994</bib>. Different groups use different techniques for cracking nuts. Generally, a chimpanzee puts a nut on a large stone or log. Then, the chimpanzee uses a hammerstone or log to strike the nut. This may take several blows, and the effectiveness depends on the orientation of both the nut and hammer. Chimpanzees return to favored stone platforms or tree roots over many years, so that this technological element is a persistent feature of chimpanzee societies. Archaeologists have studied this behavior to try to see what traces may remain from using stone in this way, and have even found evidence of chimpanzee nutcracking from thousands of years ago <bib>Mercader:2002</bib>. Some chimpanzees do not crack nuts at all, even those who have nuts in their environment. For example, the chimpanzees at Loango, Gabon, do not crack nuts but use complex sets of tools to probe underground bee hives for honey <bib>Boesch:honey:2009</bib>. 
+
+
+Chimpanzees and other apes use tools for purposes other than foraging. For example, some chimpanzees clip a leaf with their lips or teeth as a signal to other individuals---perhaps an invitation to groom or to play. Leaves and leaf stems are used extensively for wiping the body and probing teeth. Leaves are also used to soak up water and squeeze it into the mouth, like a sponge. These and other simple uses of natural objects vary among populations of chimpanzees extensively. Tool use therefore suggests that chimpanzees are interacting with some aspects of the material world in part through their mental adaptations for social behavior, as they absorb behavioral and technological knowledge from other individuals. 
+
+Other hominoids use tools less extensively than chimpanzees but show similar abilities to perform complex tasks. Like chimpanzees, orangutans can be trained to use many kinds of human tools, even extending to complex tasks. But their natural use of tools is very limited, perhaps linked to the relative lack of extractive foraging opportunities in their arboreal existence <bib>vanSchaik:orangutan:2003</bib>. Likewise, bonobos use leaves in some ways similar to chimpanzees, but extractive foraging is not common <bib>Hohmann:Fruth:2003</bib>. Experiments in naturalistic settings show that chimpanzees tend to use their existing cultural knowledge to solve new problems. For example, chimpanzee groups where sticks are a common solution to problems tend to use sticks to probe for novel foods, while those who use more leaves in other contexts will more likely probe with fingers than with sticks <bib>Gruber:honey:2009</bib>. The familiarity with tool use may help develop new tool-using behaviors, even if the cognitive potential for tool use is widely shared among primates that don't use them. 
+
+

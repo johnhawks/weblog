@@ -1,0 +1,21 @@
+---
+layout: single 
+title: "Whitman, &quot;Beginning my studies&quot;" 
+category: quickbit
+permalink: /node/15258
+tags: [quotes, literature] 
+comments: false 
+author: John Hawks 
+---
+
+Walt Whitman: 
+
+<blockquote>Beginning my studies the first step pleas'd me so much,
+The mere fact consciousness, these forms, the power of motion,
+The least insect or animal, the senses, eyesight, love,
+The first step I say awed me and pleas'd me so much,
+I have hardly gone and hardly wish'd to go any farther,
+But stop and loiter all the time to sing it in ecstatic songs.</blockquote>
+
+
+
