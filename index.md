@@ -7,7 +7,7 @@ date: 2020-05-12
 toc: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /images/banner-1500-424-sandwalk-john-hawks.jpg
   actions:
     - label: "Latest blog posts"
@@ -69,6 +69,8 @@ naledi_juvenile:
 {% include feature_row id="intro" type="left" %}
 
 {% include feature_row id="responsible_dna" type="left" %}
+
+{% include feature_row id="covid-19-transform" type="left" %}
 
 {% include feature_row id="gut_pelvis" type="left" %}
 
