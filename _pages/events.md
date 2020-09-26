@@ -7,7 +7,7 @@ tags: [site, John Hawks, Hawks sightings, events]
 modified: 2020-09-05
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: /images/banner-1500-hawks-josh-gates-tonight.jpg
   caption: "John Hawks on Josh Gates After the Hunt"
 #

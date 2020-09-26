@@ -24,7 +24,7 @@ name: "John Hawks"
 email: jhawks@wisc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   "Commentary and resources on the science of human evolution."
-baseurl: "/weblog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://johnhawks.net" # the base hostname & protocol for your site, e.g. http://example.com
 repository: johnhawks/weblog
 logo: /images/logo-sts5.png
@@ -93,6 +93,15 @@ provider: "google"
 google:
   tracking_id: "UA-20637069-1"
   anonymize_ip: false # default
+
+footer:
+links:
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/johnhawks"
+  - label: "Privacy Policy"
+    icon: "fab fa-fw fa-github"
+    url: "/privacy.html"
 
 # google_fonts:
 # - name: "Source Sans Pro"
