@@ -88,17 +88,18 @@ minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "default", "d
 paginate: 20
 paginate_path: /weblog/page:num/
 
-analytics:
-provider: "google"
-google:
-  tracking_id: "UA-20637069-1"
-  anonymize_ip: false # default
 
 footer:
 links:
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/johnhawks"
+  - label: "Facebook"
+    icon: "fab fa-fw fa-facebook"
+    url: "https://facebook.com/neandertime"
+  - label: "YouTube channel"
+    icon: "fab fa-fw fa-youtube"
+    url: "https://www.youtube.com/c/JohnHawksEvolution"
   - label: "Privacy Policy"
     icon: "fab fa-fw fa-github"
     url: "/privacy.html"
