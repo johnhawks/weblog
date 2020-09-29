@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /weblog/hawks/about.html
-title: "About the site: a mission statement"
+title: "About the site"
 excerpt: "Starting in 2004, the blog has been keeping the world updated on new advances in human evolution."
 tags: [site, John Hawks, open access]
 modified: 2020-07-03
