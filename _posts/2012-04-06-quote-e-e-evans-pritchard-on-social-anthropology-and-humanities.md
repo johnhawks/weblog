@@ -6,9 +6,10 @@ permalink: /weblog/topics/history/anthropology/evans-pritchard-social-anthropolo
 tags: [history of science, theory, history of anthropology, metascience, E. E. Evans-Pritchard] 
 comments: false 
 author: John Hawks 
+modified: 2020-10-03
 ---
 
-From "Social anthropology: Past and present" <bib>Evans-Pritchard:1950</bib>: 
+From <a href="https://doi.org/10.2307/2794464">"Social anthropology: Past and present"</a>, a 1950 publication of a lecture by E. E. Evans-Pritchard: 
 
 <blockquote>The thesis I have put before you, that social anthropology is a kind of historiography, and therefore ultimately of philosophy or art, implies that it studies societies as moral systems and not as natural systems, that it is interested in design rather than in process, and that it therefore seeks patterns and not scientific laws, and interprets rather than explains. These are conceptual, and not merely verbal, differences. The concepts of natural system and natural law, modelled on the constructs of the natural sciences, have dominated anthropology from its beginnings, and as we look back over the course of its growth I think we can see that they have been responsible for a false scholasticism which has led to one rigid and ambitious formulation after another. Regarded as a special kind of historiography, that is as one of the humanities, social anthropology is released from these essentially philosophical dogmas and given the opportunity, though it may seem paradoxical to say so, to
 be really empirical and, in the true sense of the word, scientific.</blockquote>

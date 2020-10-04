@@ -8,7 +8,7 @@ comments: false
 author: John Hawks 
 ---
 
-The <em>South African Journal of Science</em> has a new article by Lee Berger, Wu Liu and Wu Xiujie <bib>Berger:ZKD:2012</bib>, reporting on the mystery of the "Peking Man" fossils. The remains from Zhoukoudian, China, were lost at the outset of the Second World War. There have been endless speculations about the ultimate fate of the fossils, from being lost at sea in a Japanese raid to being secreted away by rogue anthropologists. 
+The <em>South African Journal of Science</em> has a new article by Lee Berger, Wu Liu and Wu Xiujie, reporting on the mystery of the "Peking Man" fossils. The remains from Zhoukoudian, China, were lost at the outset of the Second World War. There have been endless speculations about the ultimate fate of the fossils, from being lost at sea in a Japanese raid to being secreted away by rogue anthropologists. 
 
 Two years ago, Berger and colleagues received a report from the son of a former marine, Richard Bowen:
 

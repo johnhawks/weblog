@@ -2,14 +2,14 @@
 layout: single 
 title: "Failure to replicate" 
 category: quickbit
-permalink: /node/28678
-tags: [journals, peer review, metascience] 
+permalink: /weblog/metascience/replication/begley-ellis-2012-raise-standards.html
+tags: [journals, peer review, metascience, replication] 
 comments: false 
 author: John Hawks 
+modified: 2020-10-03
 ---
 
-
-What if you set out to replicate a series of 53 "landmark" clinical trials in cancer treatment and found you could confirm only 6 of them? If you're C. Glenn Begley, you write about it in <em>Nature</em> <bib>Begley:Ellis:2012</bib>. 
+What if you set out to replicate a series of 53 "landmark" clinical trials in cancer treatment and found you could confirm only 6 of them? If you're C. Glenn Begley, you write about it in <em>Nature</em>: <a href="https://doi.org/10.1038/483531a">"Raise standards for preclinical cancer research"</a>. 
 
 <blockquote>What reasons underlie the publication of erroneous, selective or irreproducible data? The academic system and peer-review process tolerates and perhaps even inadvertently encourages such conduct. To obtain funding, a job, promotion or tenure, researchers need a strong publication record, often including a first-authored high-impact publication. Journal editors, reviewers and grant-review committees often look for a scientific finding that is simple, clear and complete  a 'perfect' story. It is therefore tempting for investigators to submit selected data sets for publication, or even to massage data to fit the underlying hypothesis.</blockquote>
 
