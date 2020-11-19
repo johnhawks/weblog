@@ -58,7 +58,7 @@ plugins:
   - jekyll-paginate
 #  - jekyll-sitemap
   - jekyll-include-cache
-#  - jekyll-feed
+  - jekyll-feed
 incremental: true
 
 include: ["_pages","_tags"]
