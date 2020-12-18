@@ -9,7 +9,7 @@ comments: false
 author: John Hawks
 ---
 
-Adrián Arroyo and coworkers have an upcoming paper in the <em>Journal of Archaeological Science: Reports</a> that describes their work quantifying use-wear on stone tools used by capuchin monkeys: <a href="https://doi.org/10.1016/j.jasrep.2020.102690">"Use-wear and residue analysis of pounding tools used by wild capuchin monkeys (<em>Sapajus libidinosus</em>) from Serra da Capivara (Piauí, Brazil)"</a>. Capuchins use stone tools for many purposes, from pounding nuts and seeds to digging. Arroyo and coworkers show that these different activities leave differential traces of wear on the tools themselves. 
+Adrián Arroyo and coworkers have an upcoming paper in the <em>Journal of Archaeological Science: Reports</em> that describes their work quantifying use-wear on stone tools used by capuchin monkeys: <a href="https://doi.org/10.1016/j.jasrep.2020.102690">"Use-wear and residue analysis of pounding tools used by wild capuchin monkeys (<em>Sapajus libidinosus</em>) from Serra da Capivara (Piauí, Brazil)"</a>. Capuchins use stone tools for many purposes, from pounding nuts and seeds to digging. Arroyo and coworkers show that these different activities leave differential traces of wear on the tools themselves. 
 
 A paragraph from the introduction gives a helpful background on the range of activities for which the capuchins use stone tools: 
 
