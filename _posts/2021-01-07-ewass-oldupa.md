@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "A new site extends the evidence of hominin behavior at Olduvai Gorge"
-description: "Julio Mercader Florin ."
+description: "Julio Mercader Florin writes about his team's work uncovering Oldowan artifacts from 2 million years ago."
 category: story
 permalink: /weblog/reviews/archaeology/lower/olduvai-ewass-oldupa-2021.html
 tags: [paleoecology, Olduvai Gorge, Homo habilis, Paranthropus, Oldowan]
