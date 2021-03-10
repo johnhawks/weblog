@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Image: Krapina 49 maxilla"
+title: "Fossil profile: Krapina 49 maxilla"
 description: "An adolescent Neandertal that gives a picture of the shovel-shaped incisors of this population."
 category: story
 permalink: /weblog/topics/artcards/krapina-49-maxilla.html
