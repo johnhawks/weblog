@@ -4,7 +4,7 @@ title: "Fossil profile: U.W. 101-258 and humeral torsion"
 description: "A humerus of <em>Homo naledi</em> that shows an extreme of the morphology common in early hominins."
 category: story
 permalink: /weblog/topics/artcards/uw-101-258-humerusl.html
-tags: [Homo naledi, Dinaledi Chamber, humerus]
+tags: [Homo naledi, Dinaledi Chamber, humerus, artcards]
 comments: false
 author: John Hawks
 ---

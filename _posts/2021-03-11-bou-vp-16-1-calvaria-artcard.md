@@ -4,7 +4,7 @@ title: "Fossil profile: BOU-VP-16/1 and mortuary practice"
 description: "A skull of early <em>Homo sapiens</em> that raises questions about the treatment of the dead."
 category: story
 permalink: /weblog/topics/artcards/bou-vp-16-1-skull.html
-tags: [Bouri, Ethiopia, early modern, modern human origins, Acheulean, Middle Stone Age]
+tags: [Bouri, Ethiopia, early modern, modern human origins, Acheulean, Middle Stone Age, artcards]
 comments: false
 author: John Hawks
 ---
