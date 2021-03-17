@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Fossil profile: Skhūl 1 and the mixing of populations"
-description: "A burial of a young child ."
+description: "A burial of a young child some 110,000 years ago may belong to a hybridizing population."
 category: story
 permalink: /weblog/topics/artcards/skhul-1-calvaria.html
 tags: [Skhul, modern human origins, out of Africa, hybridization, artcards]
