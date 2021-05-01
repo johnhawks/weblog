@@ -9,7 +9,7 @@ comments: false
 author: John Hawks
 ---
 
-Two papers came out yesterday showing relatively recent Neandertal ancestry within the genomes of early Upper Paleolithic Europeans. The paper about Bacho Kiro, Bulgaria, got more attention. The Neandertal connection was more recent (within 6 generations) and the journal more prominent, But I am more focused on the analysis of the genome from the Zlatý kůň skeleton. The history of thinking about this partial skeleton, and the way this paper changes that thinking, has much to reveal about this moment in the science. 
+Two papers came out yesterday showing relatively recent Neandertal ancestry within the genomes of early Upper Paleolithic Europeans. The paper about Bacho Kiro, Bulgaria, got more attention. The Neandertal connection was more recent (within 6 generations) and the journal more prominent. But I am more focused on the analysis of the genome from the Zlatý kůň skeleton. The history of thinking about this partial skeleton, and the way this paper changes that thinking, has much to reveal about this moment in the science. 
 
 <figure>
 <img src="/images/zlaty-kun-cranium-artcard-2021.jpg" alt="Zlatý kůň cranium" />
