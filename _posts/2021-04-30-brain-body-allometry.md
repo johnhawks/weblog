@@ -16,7 +16,7 @@ A new paper in the open access journal <em>Science Advances</em> finds that othe
 But mammals are related by a hierarchical tree, and this means that treating species like a random scatter is a bad way to understand their evolution. In their new work, J. B. Smaers and coworkers consider a larger dataset of mammal brain and body masses, and use methods that enable them to navigate the tree of relationships. They find that different branches of mammals have very different constraints and patterns of brain size evolution. 
 
 <figure>
-<img src="images/smaers-brain-size-mammal-phylogeny-2021.png" alt="Tree of mammals from Smaers et al. 2021 showing brain size transitions on various branches" />
+<img src="/images/smaers-brain-size-mammal-phylogeny-2021.png" alt="Tree of mammals from Smaers et al. 2021 showing brain size transitions on various branches" />
 <figcaption>Phylogenetic tree of mammals from Smaers and coworkers (2021), indicating various patterns of brain size allometry.</figcaption>
 </figure>
 
