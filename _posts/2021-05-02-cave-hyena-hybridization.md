@@ -9,7 +9,7 @@ comments: false
 author: John Hawks
 ---
 
-I've been writing about ancient mixture between species for a long time now. Since the reporting of the first Neandertal genome in 2010, a lively field of ancient genomics has been bringing new DNA analyses of other extinct species. They've turned up ancient gene flow between species again and again, in 
+I've been writing about ancient mixture between species for a long time now. Since the reporting of the first Neandertal genome in 2010, a lively field of ancient genomics has been bringing new DNA analyses of other extinct species. They've turned up ancient gene flow between species again and again, in extinct lineages like mammoths and straight-tusked elements, in living and extinct canids, in baboons, and pretty much wherever a geographically widespread mammal has some species diversity. 
 
 An interesting paper last year by Michael Westbury and coworkers presented interpretation of the genomes of cave hyenas from Europe and China: <a href="https://doi.org/10.1126/sciadv.aay0456">"Hyena paleogenomes reveal a complex evolutionary history of cross-continental gene flow between spotted and cave hyena"</a>.
 
